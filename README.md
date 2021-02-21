@@ -1,2 +1,3 @@
 # android-hello-world-grpc-kotlin
-Kotlin based Android app with a gRPC client
+
+Kotlin based gRPC client app for Android
